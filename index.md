@@ -22,7 +22,7 @@ title: Home
     <a href="{{ '/en/git-ssh-signing-mini-course/' | relative_url }}" class="btn btn-primary">Read the Guide</a>
   </div>
   <div class="card">
-    <span class="card-label">Русский</span>
+    <span class="card-label">Other</span>
     <h3>Подпись Git-коммитов через SSH</h3>
     <p>Полная пошаговая инструкция: создание ключа, настройка платформы, конфигурация Git, подпись и верификация.</p>
     <a href="{{ '/other/git-ssh-signing-mini-course-other/' | relative_url }}" class="btn btn-primary">Открыть</a>
