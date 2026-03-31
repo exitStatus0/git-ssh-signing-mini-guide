@@ -1,0 +1,20 @@
+title: Git SSH Signing Mini Guide
+description: Practical guide to signing Git commits with SSH keys
+baseurl: /git-ssh-signing-mini-guide
+url: https://exitstatus0.github.io
+github_url: https://github.com/exitStatus0/git-ssh-signing-mini-guide
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+
+exclude:
+  - README.md
+  - CLAUDE.md
+  - LICENSE
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
