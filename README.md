@@ -44,6 +44,7 @@ This makes the topic ideal for an intro that is both practical and a little aspi
 
 - a full English guide: [en/git-ssh-signing-mini-course.md](./en/git-ssh-signing-mini-course.md)
 - a full Other guide: [other/git-ssh-signing-mini-course-other.md](./other/git-ssh-signing-mini-course-other.md)
+- a full Ukrainian guide: [ua/git-ssh-signing-mini-course-ua.md](./ua/git-ssh-signing-mini-course-ua.md)
 - a clean base for a YouTube lesson, tutorial post, or lead magnet for developer education content
 
 ### Who this mini-guide is for
@@ -126,6 +127,7 @@ SSH-подпись коммитов отлично подходит для YouTu
 
 - полная версия гайда на английском: [en/git-ssh-signing-mini-course.md](./en/git-ssh-signing-mini-course.md)
 - полная версия гайда в разделе Other: [other/git-ssh-signing-mini-course-other.md](./other/git-ssh-signing-mini-course-other.md)
+- полная версия гайда на украинском: [ua/git-ssh-signing-mini-course-ua.md](./ua/git-ssh-signing-mini-course-ua.md)
 - хорошая основа для YouTube-ролика, обучающей статьи или полезного бонусного материала для аудитории
 
 ### Для кого этот мини-гайд
