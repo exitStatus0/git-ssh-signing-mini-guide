@@ -8,15 +8,16 @@ A documentation-only repository containing educational materials for a YouTube m
 
 ## Repository structure
 
-- `README.md` — bilingual landing page (English + Other) serving as the public-facing hub
+- `README.md` — multilingual landing page (English + Other + Ukrainian) serving as the public-facing hub
 - `en/git-ssh-signing-mini-course.md` — full English guide (step-by-step setup, troubleshooting, video script notes)
 - `other/git-ssh-signing-mini-course-other.md` — Other-language translation of the same guide
+- `ua/git-ssh-signing-mini-course-ua.md` — Ukrainian translation of the same guide
 - `mentoring-offer/mentoring-offer/DevOps-Mentoring-Offer.md` — separate Other-language mentoring offer document
 
 ## Content conventions
 
-- English guide lives under `en/`, Other content under `other/`
-- The two language guides mirror each other in structure; changes to one should typically be reflected in the other
-- `README.md` links to both language guides and serves dual audiences (English and Other sections separated by `---`)
+- English guide lives under `en/`, Other content under `other/`, Ukrainian content under `ua/`
+- The three language guides mirror each other in structure; changes to one should typically be reflected in the others
+- `README.md` links to all three language guides and serves all audiences (sections separated by `---`)
 - Technical commands in the guides use `bash` code blocks and should remain copy-pasteable verbatim
 - Email placeholders use `your_email@example.com` — do not replace with real addresses

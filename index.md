@@ -27,6 +27,12 @@ title: Home
     <p>Полная пошаговая инструкция: создание ключа, настройка платформы, конфигурация Git, подпись и верификация.</p>
     <a href="{{ '/other/git-ssh-signing-mini-course-other/' | relative_url }}" class="btn btn-primary">Открыть</a>
   </div>
+  <div class="card">
+    <span class="card-label">Українська</span>
+    <h3>Підпис Git-комітів через SSH</h3>
+    <p>Повна покрокова інструкція: створення ключа, налаштування платформи, конфігурація Git, підпис і верифікація.</p>
+    <a href="{{ '/ua/git-ssh-signing-mini-course-ua/' | relative_url }}" class="btn btn-primary">Відкрити</a>
+  </div>
 </div>
 
 <h2 class="section-title">What This Guide Covers</h2>
